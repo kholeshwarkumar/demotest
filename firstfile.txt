@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 
 This is my correction line.
+=======
+This is my first  repository
+new changes came in 
+>>>>>>> 3d5bd2d1926638bdc77587dcb2fcdddd6f204a34
 
 
 
