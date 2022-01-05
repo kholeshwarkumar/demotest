@@ -1,7 +1,9 @@
 This is my first  repository
 <<<<<<< Updated upstream
 new changes came in 
-
+Clours
+Fruits
+Countries
 
 
 
