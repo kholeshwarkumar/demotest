@@ -1,9 +1,11 @@
-This is my first  repository
-<<<<<<< Updated upstream
-new changes came in 
-Clours
+This is my first repository
+new changes came in
 Fruits
 Countries
+Banglore
+Hyderbad
+
+
 
 
 
