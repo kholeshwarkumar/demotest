@@ -1,1 +1,7 @@
+
 This is my Second file repository
+List the animals
+Dog
+Cat
+Skylark
+Pengium
